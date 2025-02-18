@@ -12,10 +12,8 @@ This is a Real Estate website built using **React** and **Tailwind CSS**. The pl
 - **Dynamic Components** – Interactive and reusable React components.
 
 ## Tech Stack
-- **Frontend**: React.js, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **State Management**: React Hooks/Context API (if used)
-- **Routing**: React Router (if used)
-- **API Handling**: Axios/Fetch (if applicable)
 
 ## Installation & Setup
 1. Clone the repository:
