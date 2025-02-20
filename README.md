@@ -13,7 +13,7 @@ This is a Real Estate website built using **React** and **Tailwind CSS**. The pl
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **State Management**: React Hooks/Context API (if used)
+- **State Management**: React Hooks, Context API
 
 ## Installation & Setup
 1. Clone the repository:
